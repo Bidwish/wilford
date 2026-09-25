@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766316302341",
+    "project_id": "wilford-23e1d",
+    "storage_bucket": "wilford-23e1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766316302341:android:b3fe116403a10e216e8c6c",
+        "android_client_info": {
+          "package_name": "ng.wilford.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMPDmtrk7viAXboITp-wOg6opofJ4zaPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

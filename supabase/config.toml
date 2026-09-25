@@ -1,0 +1,16 @@
+project_id = "wilford"
+
+[functions.nomba-webhook]
+verify_jwt = false
+
+[functions.sms-otp]
+verify_jwt = true
+
+[functions.vtpass-airtime]
+verify_jwt = true
+
+[functions.vtpass-data]
+verify_jwt = true
+
+[functions.vtpass-webhook]
+verify_jwt = false
